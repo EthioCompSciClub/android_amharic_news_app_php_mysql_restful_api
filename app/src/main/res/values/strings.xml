@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ዜና</string>
+    <string name="et_zena">የኢትዮጵያ ዜና</string>
+    <string name="conn">ኮኔክሽን የለም ወይም ሰርቨር ተዘገትዋል፤ በድጋሜ ይሞክሩ።</string>
+</resources>
